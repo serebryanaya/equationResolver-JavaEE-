@@ -1,0 +1,8 @@
+ru/sbrf/equation/services/CompleteQuadraticEquationResolver.class
+ru/sbrf/equation/services/QuardaticEquationResolveService.class
+ru/sbrf/equation/web/MainServlet.class
+ru/sbrf/equation/exceptions/DivisorException.class
+ru/sbrf/equation/services/QuadraticEquationResolver.class
+ru/sbrf/equation/exceptions/InputException.class
+ru/sbrf/equation/services/IncompleteQuadraticEquationResolver.class
+ru/sbrf/equation/models/QuadraticEquation.class
